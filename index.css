@@ -1,6 +1,6 @@
 h1{color:orange;}
 html{font-family: "Comic Sans MS";
-    background-color: #8b0000;
+    background-image: url("https://assets.vg247.com/current//2017/01/titanfall_2_live_fire-2.jpg")
 
 }
 #mytitle {
@@ -14,5 +14,9 @@ ul {
     border: 24px solid orange;
     padding: 10px;
     list-style: none;
+}
+
+img {
+    width: 200px
 }
 
