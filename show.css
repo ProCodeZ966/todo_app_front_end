@@ -1,5 +1,10 @@
 h2{color:orange;}
 html{font-family: "Comic Sans MS";
-    background-color: #8b0000;
+    background-image: url(https://image.redbull.com/rbcom/010/2016-08-15/1331812109167_3/0010/1/1600/1067/1/ready-for-a-fight-the-aliens-in-titanfall-2-are.jpg)
     
+}
+
+a {
+    font-size: 24px;
+    color: white;
 }
