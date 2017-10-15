@@ -1,11 +1,18 @@
 h1{color:orange;}
 html{font-family: "Comic Sans MS";
-    background-color: red;
+    background-color: #8b0000;
 
 }
 #mytitle {
-    color: grey
+    color: orange
 }
 .list-item {
     font-size: 24px
 }
+
+ul {
+    border: 24px solid orange;
+    padding: 10px;
+    list-style: none;
+}
+
